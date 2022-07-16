@@ -1090,55 +1090,58 @@ class UnitesPage extends GetView<UnitesController> {
                   ],
                 ),
               ),
-              Container(
-                height: MediaQuery.of(context).size.height,
-                width: MediaQuery.of(context).size.width,
-                child: Column(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: [
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.end,
-                      children: [
-                        Padding(
-                            padding: const EdgeInsets.all(8.0),
-                            child: IconButton(
-                              icon: Icon(
-                                Icons.help,
-                                color: Colors.white,
-                              ),
-                              onPressed: () {
-                                Get.to(LessonPage(url: controller.linkUrl.value, horizontal: false));
-                              },
-                            )
-                        ),
-                      ],
-                    ),
-                    Padding(
-                      padding: const EdgeInsets.all(8.0),
-                      child: Row(
+              SafeArea(
+                child: Container(
+                  height: MediaQuery.of(context).size.height,
+                  width: MediaQuery.of(context).size.width,
+                  child: Column(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.end,
                         children: [
                           Padding(
-                            padding: EdgeInsets.only(
-                                left: MediaQuery.of(context).size.width * 0.013,
-                                bottom:
-                                    MediaQuery.of(context).size.height * 0.0),
-                            child: Center(
+                              padding: const EdgeInsets.all(8.0),
                               child: IconButton(
-                                icon: Image.asset(
-                                  'assets/images/back_icon.png',
+                                icon: Icon(
+                                  Icons.help,
+                                  color: Colors.white,
+                                  size: 40
                                 ),
-                                color: Colors.white,
                                 onPressed: () {
-                                  onTapWithAudio();
-                                  Get.back();
+                                  Get.to(LessonPage(url: controller.linkUrl.value, horizontal: false));
                                 },
-                              ),
-                            ),
+                              )
                           ),
                         ],
                       ),
-                    ),
-                  ],
+                      Padding(
+                        padding: const EdgeInsets.all(8.0),
+                        child: Row(
+                          children: [
+                            Padding(
+                              padding: EdgeInsets.only(
+                                  left: MediaQuery.of(context).size.width * 0.013,
+                                  bottom:
+                                      MediaQuery.of(context).size.height * 0.0),
+                              child: Center(
+                                child: IconButton(
+                                  icon: Image.asset(
+                                    'assets/images/back_icon.png',
+                                  ),
+                                  color: Colors.white,
+                                  onPressed: () {
+                                    onTapWithAudio();
+                                    Get.back();
+                                  },
+                                ),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ],
+                  ),
                 ),
               )
             ],

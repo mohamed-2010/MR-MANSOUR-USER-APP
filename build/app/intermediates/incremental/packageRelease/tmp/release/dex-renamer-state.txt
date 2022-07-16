@@ -1,4 +1,4 @@
-#Sat Jul 16 20:31:44 EET 2022
+#Sat Jul 16 21:13:16 EET 2022
 base.1=/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/app/intermediates/dex/release/minifyReleaseWithR8/classes2.dex
 path.1=classes2.dex
 base.0=/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
