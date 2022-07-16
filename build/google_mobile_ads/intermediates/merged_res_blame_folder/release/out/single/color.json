@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/google_mobile_ads/intermediates/merged_res/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d81942865197b0b62d965058de5ec64b/transformed/jetified-play-services-base-17.6.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/google_mobile_ads/intermediates/merged_res/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d81942865197b0b62d965058de5ec64b/transformed/jetified-play-services-base-17.6.0/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/google_mobile_ads/intermediates/merged_res/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d81942865197b0b62d965058de5ec64b/transformed/jetified-play-services-base-17.6.0/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

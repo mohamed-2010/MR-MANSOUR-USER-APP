@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout-v23/exo_styled_player_control_ffwd_button.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d88189a64e195302c725c015ee421e41/transformed/jetified-exoplayer-ui-2.17.1/res/layout-v23/exo_styled_player_control_ffwd_button.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout-v23/exo_styled_player_control_rewind_button.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d88189a64e195302c725c015ee421e41/transformed/jetified-exoplayer-ui-2.17.1/res/layout-v23/exo_styled_player_control_rewind_button.xml"
+    }
+]

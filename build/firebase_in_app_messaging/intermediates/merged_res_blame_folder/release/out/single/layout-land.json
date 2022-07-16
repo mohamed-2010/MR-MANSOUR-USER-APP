@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/firebase_in_app_messaging/intermediates/merged_res/release/layout-land/card_landscape_inner.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/0eb71feefcd7742da11a68592915b2eb/transformed/jetified-firebase-inappmessaging-display-20.1.2/res/layout-land/card_landscape_inner.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/firebase_in_app_messaging/intermediates/merged_res/release/layout-land/modal.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/0eb71feefcd7742da11a68592915b2eb/transformed/jetified-firebase-inappmessaging-display-20.1.2/res/layout-land/modal.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/firebase_in_app_messaging/intermediates/merged_res/release/layout-land/card.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/0eb71feefcd7742da11a68592915b2eb/transformed/jetified-firebase-inappmessaging-display-20.1.2/res/layout-land/card.xml"
+    }
+]

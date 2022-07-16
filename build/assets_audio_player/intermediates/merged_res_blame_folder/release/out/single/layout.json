@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/exo_styled_settings_list_item.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d88189a64e195302c725c015ee421e41/transformed/jetified-exoplayer-ui-2.17.1/res/layout/exo_styled_settings_list_item.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/f2505427952f054811951e2f492e6b20/transformed/media-1.4.3/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_template_part_time.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/4d2cb1e3dec5bab8870573ecf93b59a3/transformed/core-1.7.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/exo_styled_player_control_view.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d88189a64e195302c725c015ee421e41/transformed/jetified-exoplayer-ui-2.17.1/res/layout/exo_styled_player_control_view.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/exo_player_view.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d88189a64e195302c725c015ee421e41/transformed/jetified-exoplayer-ui-2.17.1/res/layout/exo_player_view.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/f2505427952f054811951e2f492e6b20/transformed/media-1.4.3/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/exo_styled_player_control_rewind_button.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d88189a64e195302c725c015ee421e41/transformed/jetified-exoplayer-ui-2.17.1/res/layout/exo_styled_player_control_rewind_button.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/exo_styled_settings_list.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d88189a64e195302c725c015ee421e41/transformed/jetified-exoplayer-ui-2.17.1/res/layout/exo_styled_settings_list.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_media_action.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/f2505427952f054811951e2f492e6b20/transformed/media-1.4.3/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_action.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/4d2cb1e3dec5bab8870573ecf93b59a3/transformed/core-1.7.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_template_big_media.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/f2505427952f054811951e2f492e6b20/transformed/media-1.4.3/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_template_custom_big.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/4d2cb1e3dec5bab8870573ecf93b59a3/transformed/core-1.7.0/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/exo_styled_player_view.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d88189a64e195302c725c015ee421e41/transformed/jetified-exoplayer-ui-2.17.1/res/layout/exo_styled_player_view.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/exo_styled_player_control_ffwd_button.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d88189a64e195302c725c015ee421e41/transformed/jetified-exoplayer-ui-2.17.1/res/layout/exo_styled_player_control_ffwd_button.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/exo_list_divider.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d88189a64e195302c725c015ee421e41/transformed/jetified-exoplayer-ui-2.17.1/res/layout/exo_list_divider.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/exo_styled_sub_settings_list_item.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d88189a64e195302c725c015ee421e41/transformed/jetified-exoplayer-ui-2.17.1/res/layout/exo_styled_sub_settings_list_item.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/4d2cb1e3dec5bab8870573ecf93b59a3/transformed/core-1.7.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/4d2cb1e3dec5bab8870573ecf93b59a3/transformed/core-1.7.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_template_media.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/f2505427952f054811951e2f492e6b20/transformed/media-1.4.3/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/f2505427952f054811951e2f492e6b20/transformed/media-1.4.3/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/4d2cb1e3dec5bab8870573ecf93b59a3/transformed/core-1.7.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/exo_player_control_view.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d88189a64e195302c725c015ee421e41/transformed/jetified-exoplayer-ui-2.17.1/res/layout/exo_player_control_view.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/exo_track_selection_dialog.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/d88189a64e195302c725c015ee421e41/transformed/jetified-exoplayer-ui-2.17.1/res/layout/exo_track_selection_dialog.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/f2505427952f054811951e2f492e6b20/transformed/media-1.4.3/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/f2505427952f054811951e2f492e6b20/transformed/media-1.4.3/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/f2505427952f054811951e2f492e6b20/transformed/media-1.4.3/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/mohamedahmed/StudioProjects/child app for mr mahmoud/build/assets_audio_player/intermediates/merged_res/release/layout/custom_dialog.xml",
+        "source": "/Users/mohamedahmed/.gradle/caches/transforms-3/4d2cb1e3dec5bab8870573ecf93b59a3/transformed/core-1.7.0/res/layout/custom_dialog.xml"
+    }
+]
